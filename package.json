@@ -2292,7 +2292,7 @@
         "enzyme-adapter-react-16": "^1.6.0",
         "event-stream": "3.3.4",
         "file-loader": "^2.0.0",
-        "flat": "^4.0.0",
+        "flat": "^5.0.1",
         "gulp": "^4.0.0",
         "gulp-azure-storage": "^0.9.0",
         "gulp-filter": "^5.1.0",
